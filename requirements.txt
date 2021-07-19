@@ -1,8 +1,6 @@
 gradio
 matplotlib
 numpy
-numpydoc
-opencv-python
 pandas
 Pillow
 tensorflow

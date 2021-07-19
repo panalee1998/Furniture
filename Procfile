@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser ExamApi.ipynb
+web: voila --port=$PORT --no-browser FurnitureDetector1.ipynb
